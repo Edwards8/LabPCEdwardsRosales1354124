@@ -1,0 +1,3 @@
+print("semana no.12 actividad 10")
+#Variable
+Opcion1 = 
